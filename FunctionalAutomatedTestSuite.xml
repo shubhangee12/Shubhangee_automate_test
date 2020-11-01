@@ -3,7 +3,7 @@
 <suite name="Automated Functional Test Scenarios: Guest User" verbose="1">
     <test name="TC1:Verify Successful Flight booking and confirmation ID when Valid Departure city and Destnation city provided in input">
         <classes>
-            <class name="Blazedemo.Test.LandingPageTest">
+            <class name="Blazedemo.Test.FlightBookingTest">
               </class>
         </classes>
     </test>
