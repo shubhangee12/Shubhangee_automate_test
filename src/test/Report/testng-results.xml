@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-01T17:10:04 IST" name="Default Suite" finished-at="2020-11-01T17:10:25 IST" duration-ms="20755">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T17:10:04 IST" name="Blazedemo" finished-at="2020-11-01T17:10:25 IST" duration-ms="20755">
+      <class name="Blazedemo.Test.LandingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:04 IST" name="setUp" finished-at="2020-11-01T17:10:13 IST" duration-ms="9105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Booking_verify_landingpage()[pri:0, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:13 IST" name="Booking_verify_landingpage" finished-at="2020-11-01T17:10:15 IST" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_verify_landingpage -->
+        <test-method signature="Booking_verify_chooseFlight()[pri:1, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:15 IST" name="Booking_verify_chooseFlight" finished-at="2020-11-01T17:10:17 IST" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_verify_chooseFlight -->
+        <test-method signature="Booking_verify_purchasepage()[pri:2, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:17 IST" name="Booking_verify_purchasepage" finished-at="2020-11-01T17:10:21 IST" duration-ms="3922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_verify_purchasepage -->
+        <test-method signature="Booking_verify_confirmationpage()[pri:3, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:21 IST" name="Booking_verify_confirmationpage" finished-at="2020-11-01T17:10:21 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_verify_confirmationpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Blazedemo.Test.LandingPageTest@17baae6e]" started-at="2020-11-01T17:10:21 IST" name="tearDown" finished-at="2020-11-01T17:10:25 IST" duration-ms="3730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Blazedemo.Test.LandingPageTest -->
+    </test> <!-- Blazedemo -->
+  </suite> <!-- Default Suite -->
+</testng-results>

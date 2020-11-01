@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Functional Test Case for Testing Balzedemo" preserve-order="false" parallel="false" thread-count="1">
+
+    <test name="regression">
+        <classes>
+            <class name="Blazedemo.Test.LandingPageTest"></class>
+        </classes>
+    </test>
+    <!-- <suite-files>
+         <suite-file path="FunctionalAutomatedTestSuite.xml"></suite-file>
+          <suite-file path="FunctionalNonAutomatedTestSuiteforRegisteredUser.xml"></suite-file>
+         <suite-file path="FunctionalNonAutomatedTestSuiteforGuestUser.xml"></suite-file>
+
+    </suite-files> -->
+</suite>
