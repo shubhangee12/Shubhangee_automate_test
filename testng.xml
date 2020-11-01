@@ -4,13 +4,7 @@
 
     <test name="regression">
         <classes>
-            <class name="Blazedemo.Test.LandingPageTest"></class>
+            <class name="Blazedemo.Test.FlightBookingTest"></class>
         </classes>
     </test>
-    <!-- <suite-files>
-         <suite-file path="FunctionalAutomatedTestSuite.xml"></suite-file>
-          <suite-file path="FunctionalNonAutomatedTestSuiteforRegisteredUser.xml"></suite-file>
-         <suite-file path="FunctionalNonAutomatedTestSuiteforGuestUser.xml"></suite-file>
-
-    </suite-files> -->
 </suite>
